@@ -13,9 +13,13 @@ To run this project, ensure you have Microsoft Power BI installed on your system
 2. Power Query
 3. DAX Query
 
+## Skills Practiced
+1. Data Cleaning
+3. Data Manipulation
+4. Data Visualization
+
 ## Dashboard
 ![Electro Mart Sales Performance Report](https://github.com/user-attachments/assets/1931d3b3-d75e-43b4-91a2-69d5bc6b1a69)
-
 
 ## Dashboard Insights
 1. Key Performance Indicators (KPIs):
