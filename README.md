@@ -1,4 +1,4 @@
-# Electro Mart Global Electronics Retail Sales Performance Report
+# Electro Mart Global Electronics Retail Sales Performance Analysis
 ## Overview
 This project offers an in-depth analysis of an electronics retail enterprise leveraging Power BI tools. Key business metrics and trends are visualized through a comprehensive dashboard. The insights derived facilitate data-driven decision-making, aiding business growth. The project incorporates forecasting techniques for descriptive analysis.
 
